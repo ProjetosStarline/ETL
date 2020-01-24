@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{45540548-25EE-4BEE-ABA6-477577A572DC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ETLApplication</RootNamespace>
+    <AssemblyName>ETLApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Projetos\ETL\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>941F448B31CF7693A7BB18677FE0B2F1AFC4033A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ETLApplication_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Memory, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.2\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\ArquivosController.cs" />
+    <Compile Include="Controller\CadastroBase.cs" />
+    <Compile Include="Controller\CategoriasController.cs" />
+    <Compile Include="Controller\ExpImpTabelasController.cs" />
+    <Compile Include="Controller\GruposController.cs" />
+    <Compile Include="Controller\LogsController.cs" />
+    <Compile Include="Controller\MapeamentosController.cs" />
+    <Compile Include="Controller\MonitoramentosController.cs" />
+    <Compile Include="Controller\ObjetosController.cs" />
+    <Compile Include="Controller\PacotesController.cs" />
+    <Compile Include="Controller\ParametrosController.cs" />
+    <Compile Include="Controller\PerfisController.cs" />
+    <Compile Include="Controller\PermissoesController.cs" />
+    <Compile Include="Controller\ServicosController.cs" />
+    <Compile Include="Controller\UsuariosController.cs" />
+    <Compile Include="Controller\VisualizaAndamentoController.cs" />
+    <Compile Include="DAO\Crypto.cs" />
+    <Compile Include="DAO\GeraCRUD.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Model\CategoriasModel.cs" />
+    <Compile Include="Model\ExpImpTabelasModel.cs" />
+    <Compile Include="Model\GruposModel.cs" />
+    <Compile Include="Model\LoginModel.cs" />
+    <Compile Include="Model\LogsModel.cs" />
+    <Compile Include="Model\ParametrosModel.cs" />
+    <Compile Include="Model\UsuXCategModel.cs" />
+    <Compile Include="View\frmAlterarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmAlterarSenha.Designer.cs">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadCategorias.Designer.cs">
+      <DependentUpon>frmCadCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadGrupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadGrupos.Designer.cs">
+      <DependentUpon>frmCadGrupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadArquivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadArquivos.Designer.cs">
+      <DependentUpon>frmCadArquivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ArquivosModel.cs" />
+    <Compile Include="Model\GenericModel.cs" />
+    <Compile Include="Model\MapeamentosModel.cs" />
+    <Compile Include="Model\MonitoramentosModel.cs" />
+    <Compile Include="Model\PacotesModel.cs" />
+    <Compile Include="Model\ServicosModel.cs" />
+    <Compile Include="View\frmCadPacotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadPacotes.Designer.cs">
+      <DependentUpon>frmCadPacotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadParametros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadParametros.Designer.cs">
+      <DependentUpon>frmCadParametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadPerfil.Designer.cs">
+      <DependentUpon>frmCadPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadServicos.Designer.cs">
+      <DependentUpon>frmCadServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmConfigGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmConfigGrupo.Designer.cs">
+      <DependentUpon>frmConfigGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmExpImpTabelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmExpImpTabelas.Designer.cs">
+      <DependentUpon>frmExpImpTabelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmPermissoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmPermissoes.Designer.cs">
+      <DependentUpon>frmPermissoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmPesquisa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmPesquisa.Designer.cs">
+      <DependentUpon>frmPesquisa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ObjetosModel.cs" />
+    <Compile Include="Model\PerfisModel.cs" />
+    <Compile Include="Model\PermissoesModel.cs" />
+    <Compile Include="Model\UsuariosModel.cs" />
+    <Compile Include="View\frmCadastroBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroBase.Designer.cs">
+      <DependentUpon>frmCadastroBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUsuarios.designer.cs">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizarAndamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizarAndamento.Designer.cs">
+      <DependentUpon>frmVisualizarAndamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizarLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizarLog.Designer.cs">
+      <DependentUpon>frmVisualizarLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\untLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\untLogin.Designer.cs">
+      <DependentUpon>untLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="View\frmAlterarSenha.resx">
+      <DependentUpon>frmAlterarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadCategorias.resx">
+      <DependentUpon>frmCadCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadGrupos.resx">
+      <DependentUpon>frmCadGrupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadArquivos.resx">
+      <DependentUpon>frmCadArquivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadPacotes.resx">
+      <DependentUpon>frmCadPacotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadParametros.resx">
+      <DependentUpon>frmCadParametros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadPerfil.resx">
+      <DependentUpon>frmCadPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadServicos.resx">
+      <DependentUpon>frmCadServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmConfigGrupo.resx">
+      <DependentUpon>frmConfigGrupo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmExpImpTabelas.resx">
+      <DependentUpon>frmExpImpTabelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmPermissoes.resx">
+      <DependentUpon>frmPermissoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmPesquisa.resx">
+      <DependentUpon>frmPesquisa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroBase.resx">
+      <DependentUpon>frmCadastroBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizarAndamento.resx">
+      <DependentUpon>frmVisualizarAndamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizarLog.resx">
+      <DependentUpon>frmVisualizarLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\untLogin.resx">
+      <DependentUpon>untLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="ETLApplication_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ETLConexao\00-ETLConexao.csproj">
+      <Project>{c38e5636-3ff8-4846-ae51-fd55e5fdd67a}</Project>
+      <Name>00-ETLConexao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ETLCrypto\ClassLibrary1\01-Facade.csproj">
+      <Project>{1e90770f-4dc9-4c7c-b739-1a9a0763885a}</Project>
+      <Name>01-Facade</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

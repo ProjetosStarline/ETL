@@ -1,0 +1,10 @@
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\01-Facade.csprojAssemblyReference.cache
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\01-Facade.csproj.CoreCompileInputs.cache
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\bin\Debug\ETLConexao.dll
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\bin\Debug\ETLConexao.pdb
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\bin\Debug\ETLConexao.dll.config
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\01-Facade.csproj.CopyComplete

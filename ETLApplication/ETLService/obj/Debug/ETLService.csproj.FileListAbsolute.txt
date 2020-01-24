@@ -1,0 +1,9 @@
+C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe.config
+C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.pdb
+C:\Projetos\ETL\ETLApplication\ETLService\obj\Debug\ETLService.ExecutaCarga.resources
+C:\Projetos\ETL\ETLApplication\ETLService\obj\Debug\ETLService.ProjectInstaller.resources
+C:\Projetos\ETL\ETLApplication\ETLService\obj\Debug\ETLService.csproj.GenerateResource.cache
+C:\Projetos\ETL\ETLApplication\ETLService\obj\Debug\ETLService.csproj.CoreCompileInputs.cache
+C:\Projetos\ETL\ETLApplication\ETLService\obj\Debug\ETLService.exe
+C:\Projetos\ETL\ETLApplication\ETLService\obj\Debug\ETLService.pdb

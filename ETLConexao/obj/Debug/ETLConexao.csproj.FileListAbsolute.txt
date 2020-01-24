@@ -1,0 +1,7 @@
+C:\Projetos\ETL\ETLConexao\obj\Debug\ETLConexao.csprojAssemblyReference.cache
+C:\Projetos\ETL\ETLConexao\obj\Debug\ETLConexao.csproj.CoreCompileInputs.cache
+C:\Projetos\ETL\ETLConexao\bin\Debug\ETLConexao.dll.config
+C:\Projetos\ETL\ETLConexao\bin\Debug\ETLConexao.dll
+C:\Projetos\ETL\ETLConexao\bin\Debug\ETLConexao.pdb
+C:\Projetos\ETL\ETLConexao\obj\Debug\ETLConexao.dll
+C:\Projetos\ETL\ETLConexao\obj\Debug\ETLConexao.pdb

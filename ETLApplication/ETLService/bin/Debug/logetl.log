@@ -1,0 +1,5 @@
+Microsoft (R) .NET Framework Installation utility Version 2.0.50727.8922
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Ocorreu uma exce‡Æo ao inicializar a instala‡Æo:
+System.BadImageFormatException: NÆo foi poss¡vel carregar arquivo ou assembly 'file:///C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\EtlService.exe' ou uma de suas dependˆncias. O m¢dulo deveria conter um manifesto de assembly..

@@ -1,0 +1,12 @@
+25/09/2019 18:22:02: Erro ao gravar o log. MOTIVO: String or binary data would be truncated.
+The statement has been terminated..
+25/09/2019 18:24:08: Erro ao gravar o log. MOTIVO: String or binary data would be truncated.
+The statement has been terminated..
+25/09/2019 18:26:25: Erro ao gravar o log. MOTIVO: String or binary data would be truncated.
+The statement has been terminated..
+25/09/2019 18:26:51: Erro ao gravar o log. MOTIVO: String or binary data would be truncated.
+The statement has been terminated..
+25/09/2019 18:28:52: Erro ao gravar o log. MOTIVO: String or binary data would be truncated.
+The statement has been terminated..
+25/09/2019 18:28:55: Erro ao gravar o log. MOTIVO: String or binary data would be truncated.
+The statement has been terminated..

@@ -1,0 +1,16 @@
+C:\Projetos\ETL\Backup\bin\Debug\Backup.exe.config
+C:\Projetos\ETL\Backup\bin\Debug\Backup.exe
+C:\Projetos\ETL\Backup\bin\Debug\Backup.pdb
+C:\Projetos\ETL\Backup\bin\Debug\ETLApplication.exe
+C:\Projetos\ETL\Backup\bin\Debug\ETLConexao.dll
+C:\Projetos\ETL\Backup\bin\Debug\ETLApplication.pdb
+C:\Projetos\ETL\Backup\bin\Debug\ETLApplication.exe.config
+C:\Projetos\ETL\Backup\bin\Debug\ETLConexao.pdb
+C:\Projetos\ETL\Backup\bin\Debug\ETLConexao.dll.config
+C:\Projetos\ETL\Backup\obj\Debug\Backup.csprojAssemblyReference.cache
+C:\Projetos\ETL\Backup\obj\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Projetos\ETL\Backup\obj\Debug\Backup.csproj.CopyComplete
+C:\Projetos\ETL\Backup\obj\Debug\Backup.exe
+C:\Projetos\ETL\Backup\obj\Debug\Backup.pdb
+C:\Projetos\ETL\Backup\bin\Debug\ClassLibrary1.dll
+C:\Projetos\ETL\Backup\bin\Debug\ClassLibrary1.pdb

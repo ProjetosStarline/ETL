@@ -1,0 +1,6 @@
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\01-ETLCrypto.csprojAssemblyReference.cache
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\01-ETLCrypto.csproj.CoreCompileInputs.cache
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Projetos\ETL\ETLCrypto\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

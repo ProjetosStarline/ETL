@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarLoad", "ETLApplication\StarLoad.csproj", "{45540548-25EE-4BEE-ABA6-477577A572DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00-ETLConexao", "..\ETLConexao\00-ETLConexao.csproj", "{C38E5636-3FF8-4846-AE51-FD55E5FDD67A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecutaCarga", "..\ExecutaCarga\ExecutaCarga.csproj", "{150A0BB4-5BDE-41E6-81E0-C71D39C4D1D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeraScript", "..\GeraScript\GeraScript.csproj", "{4B37626E-F536-4D69-9868-6FD89E049E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup", "..\Backup\Backup.csproj", "{AAFA4957-742D-4921-AF71-9A4A42956C7F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupStarLoad", "..\ETLInstall\SetupStarLoad\SetupStarLoad.vdproj", "{142E0330-7763-41CF-A647-EC27710FCA92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Facade", "..\ETLCrypto\ClassLibrary1\01-Facade.csproj", "{1E90770F-4DC9-4C7C-B739-1A9A0763885A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45540548-25EE-4BEE-ABA6-477577A572DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45540548-25EE-4BEE-ABA6-477577A572DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45540548-25EE-4BEE-ABA6-477577A572DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45540548-25EE-4BEE-ABA6-477577A572DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C38E5636-3FF8-4846-AE51-FD55E5FDD67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38E5636-3FF8-4846-AE51-FD55E5FDD67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38E5636-3FF8-4846-AE51-FD55E5FDD67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38E5636-3FF8-4846-AE51-FD55E5FDD67A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150A0BB4-5BDE-41E6-81E0-C71D39C4D1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150A0BB4-5BDE-41E6-81E0-C71D39C4D1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150A0BB4-5BDE-41E6-81E0-C71D39C4D1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150A0BB4-5BDE-41E6-81E0-C71D39C4D1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B37626E-F536-4D69-9868-6FD89E049E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B37626E-F536-4D69-9868-6FD89E049E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B37626E-F536-4D69-9868-6FD89E049E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B37626E-F536-4D69-9868-6FD89E049E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFA4957-742D-4921-AF71-9A4A42956C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFA4957-742D-4921-AF71-9A4A42956C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFA4957-742D-4921-AF71-9A4A42956C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFA4957-742D-4921-AF71-9A4A42956C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142E0330-7763-41CF-A647-EC27710FCA92}.Debug|Any CPU.ActiveCfg = Debug
+		{142E0330-7763-41CF-A647-EC27710FCA92}.Release|Any CPU.ActiveCfg = Release
+		{1E90770F-4DC9-4C7C-B739-1A9A0763885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E90770F-4DC9-4C7C-B739-1A9A0763885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E90770F-4DC9-4C7C-B739-1A9A0763885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E90770F-4DC9-4C7C-B739-1A9A0763885A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F3E62EB-584C-4ECB-8199-A977A7EDB9E0}
+	EndGlobalSection
+EndGlobal

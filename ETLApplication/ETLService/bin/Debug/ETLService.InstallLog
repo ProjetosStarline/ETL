@@ -1,0 +1,465 @@
+﻿Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Serviço ExecutaCarga foi instalado com êxito.
+Criando a origem de EventLog ExecutaCarga no log Application...
+Confirmando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Ocorreu uma exceção durante a desinstalação do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Acesso ao Registro solicitado não é permitido.
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Criando a origem de EventLog ExecutaCarga no log Application...
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Restaurando o log de eventos para o estado anterior da origem ExecutaCarga.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Serviço ExecutaCarga está sendo removido do sistema...
+Serviço ExecutaCarga foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Serviço ExecutaCarga foi instalado com êxito.
+Criando a origem de EventLog ExecutaCarga no log Application...
+Confirmando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Serviço ExecutaCarga está sendo removido do sistema...
+Serviço ExecutaCarga foi removido com êxito do sistema.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Serviço ExecutaCarga foi instalado com êxito.
+Criando a origem de EventLog ExecutaCarga no log Application...
+Confirmando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Serviço ExecutaCarga está sendo removido do sistema...
+Serviço ExecutaCarga foi removido com êxito do sistema.
+Ocorreu uma exceção no manipulador de eventos OnAfterUninstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Aviso: a origem ExecutaCarga não está registrada no computador local.
+Serviço ExecutaCarga está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Aviso: a origem ExecutaCarga não está registrada no computador local.
+Serviço ExecutaCarga está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Aviso: a origem ExecutaCarga não está registrada no computador local.
+Serviço ExecutaCarga está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Aviso: a origem ExecutaCarga não está registrada no computador local.
+Serviço ExecutaCarga está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Aviso: a origem ExecutaCarga não está registrada no computador local.
+Serviço ExecutaCarga está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Aviso: a origem ExecutaCarga não está registrada no computador local.
+Serviço ExecutaCarga está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção no manipulador de eventos OnBeforeInstall de System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: O nome do serviço  contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80).
+Revertendo o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Ocorreu uma exceção durante a fase de reversão do instalador System.ServiceProcess.ServiceProcessInstaller.
+System.ArgumentException: Dicionário savedState não contém os valores esperados e talvez estejam corrompidos.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Aviso: a origem ExecutaCarga não está registrada no computador local.
+Serviço ExecutaCarga está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Serviço ExecutaCarga foi instalado com êxito.
+Criando a origem de EventLog ExecutaCarga no log Application...
+Confirmando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Desinstalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Removendo a origem do EventLog ExecutaCarga.
+Serviço ExecutaCarga está sendo removido do sistema...
+Serviço ExecutaCarga foi removido com êxito do sistema.
+Tentativa de parar o serviço ExecutaCarga.
+Instalando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
+Instalando o serviço ExecutaCarga...
+Serviço ExecutaCarga foi instalado com êxito.
+Criando a origem de EventLog ExecutaCarga no log Application...
+Confirmando o assembly 'C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.exe
+   logfile = C:\Projetos\ETL\ETLApplication\ETLService\bin\Debug\ETLService.InstallLog
